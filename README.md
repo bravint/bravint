@@ -1,4 +1,4 @@
-<h1 align="center">Hi and welcome to my gitHub Repo 👋, I'm Bravin Thillainathan</h1>
+<h2 align="center">Hi and welcome to my gitHub Repo 👋, I'm Bravin Thillainathan</h2>
 <h3 align="center">A full stack developer from London</h3>
 
 - 🌱 I’m currently learning **full stack development with Boolean UK**
