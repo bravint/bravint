@@ -1,7 +1,7 @@
 <h2 align="center">Hi and welcome to my gitHub Repo 👋, I'm Bravin Thillainathan</h2>
 <h3 align="center">A full stack developer from London</h3>
 
-<h4 align="center">Currently learning **full stack development with Boolean UK**<h4>
+<h4 align="center">Currently enrolled on a full stack development course with Boolean UK<h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
