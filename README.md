@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bravint&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravint&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Hi, welcome to my gitHub Repo 👋</h2>
 
