@@ -2,6 +2,7 @@
 
 <p align='center'>
  I'm Bravin, a full-stack developer from London. I love building things!
+ Graduated from a software engineering course at @Boolean UK in April 2022
 </p>
 
 <p align='center'>To get in touch, reach out over on <a href="www.linkedin.com/in/bravint">LinkedIn</a>.</p>
