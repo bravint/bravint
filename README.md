@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, welcome to my gitHub Repo 👋</h1>
 
 <p align='center'>
- I'm Bravin, a full-stack developer from London. I love building things!<br />
+ I'm Bravin, a full-stack developer from London. I love building things and bringing ideas to life!<br />
  Graduated from a software engineering course at Boolean UK in April 2022
 </p>
 
