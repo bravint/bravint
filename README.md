@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, welcome to my gitHub Repo 👋</h1>
+<h2 align="center">Hello world, welcome to my gitHub Repo 👋</h2>
 
 <p align='center'>
  I'm Bravin, a full-stack developer from London. I :heart: building things and bringing ideas to life!
