@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
- To get in touch, reach out over on <a href="www.linkedin.com/in/bravint">LinkedIn</a>.
+ To get in touch, reach out over on <a href="https://www.linkedin.com/in/bravint" target="_blank" rel="noreferrer">LinkedIn</a>.
 </p>
 
 <h3 align="center">Languages and Tools Used:</h3>
