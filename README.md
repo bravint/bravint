@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
- Graduated from a software engineering course at Boolean UK in April 2022.
+ Graduated from a software engineering course at <a href="https://boolean.co.uk" target="_blank" rel="noreferrer">Boolean UK</a> in April 2022.
 </p>
 
 <p align='center'>
