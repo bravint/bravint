@@ -1,7 +1,7 @@
 <h2 align="center">Hello world, welcome to my gitHub Repo 👋</h2>
 
 <p align='center'>
- I'm Bravin, a full-stack developer from London. I :heart: building things and bringing ideas to life!
+ I'm Bravin, a full-stack developer from London. I :heart: building things and using my creativity to bring ideas to life!
 </p>
 
 <p align='center'>
