@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img src="github-readme-stats.vercel.app/api?username=bravint&count_private=true&show_icons=true&theme=github_dark&hide=contribs,stars&hide_border=true&show_icons=true"/>
+  <img src="https://github-readme-stats-bravint.vercel.app/api?username=bravint&count_private=true&show_icons=true&theme=github_dark&hide=contribs,stars&hide_border=true&show_icons=true"/>
 </p>
