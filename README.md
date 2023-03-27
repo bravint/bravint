@@ -25,5 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-bravint.vercel.app/api?username=bravint&count_private=true&show_icons=true&theme=github_dark&hide=contribs,stars&hide_border=true&show_icons=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-bravint.vercel.app/api?username=bravint&count_private=true&show_icons=true&theme=github_dark&hide=contribs,stars&hide_border=true&show_icons=true"/>
+  </a>
 </p>
